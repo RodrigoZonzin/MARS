@@ -114,103 +114,103 @@ graph [
   ]
   node [
     id 28
-    label "estrelaguiaartessacras"
-  ]
-  node [
-    id 29
-    label "popnewsjdr"
-  ]
-  node [
-    id 30
-    label "brunarobertadasilvas"
-  ]
-  node [
-    id 31
-    label "magalyrozzetto"
-  ]
-  node [
-    id 32
-    label "ceciliajw.228"
-  ]
-  node [
-    id 33
-    label "miss.brasil.cadeirante.i"
-  ]
-  node [
-    id 34
-    label "diogoandradesou"
-  ]
-  node [
-    id 35
-    label "vitu_42"
-  ]
-  node [
-    id 36
-    label "benvindasjdr"
-  ]
-  node [
-    id 37
-    label "ana_lu.032"
-  ]
-  node [
-    id 38
-    label "sftb13five"
-  ]
-  node [
-    id 39
     label "ludmilacmoreira"
   ]
   node [
-    id 40
+    id 29
     label "uairango"
   ]
   node [
-    id 41
+    id 30
     label "elaine_fazevedo"
   ]
   node [
-    id 42
+    id 31
     label "conceicaosantosbatista2"
   ]
   node [
-    id 43
+    id 32
     label "alinerocha_2"
   ]
   node [
-    id 44
+    id 33
     label "cacamaximiano"
   ]
   node [
-    id 45
+    id 34
     label "ryanzx_rn"
   ]
   node [
-    id 46
+    id 35
     label "isanavoz"
   ]
   node [
-    id 47
+    id 36
     label "denise.costa.566148"
   ]
   node [
-    id 48
+    id 37
     label "marcelomartins21"
   ]
   node [
-    id 49
+    id 38
     label "salaofabifonseca"
   ]
   node [
-    id 50
+    id 39
     label "eu_lenira_"
   ]
   node [
-    id 51
+    id 40
     label "herculinossss"
   ]
   node [
-    id 52
+    id 41
     label "taty_oph"
+  ]
+  node [
+    id 42
+    label "estrelaguiaartessacras"
+  ]
+  node [
+    id 43
+    label "popnewsjdr"
+  ]
+  node [
+    id 44
+    label "brunarobertadasilvas"
+  ]
+  node [
+    id 45
+    label "magalyrozzetto"
+  ]
+  node [
+    id 46
+    label "ceciliajw.228"
+  ]
+  node [
+    id 47
+    label "miss.brasil.cadeirante.i"
+  ]
+  node [
+    id 48
+    label "diogoandradesou"
+  ]
+  node [
+    id 49
+    label "vitu_42"
+  ]
+  node [
+    id 50
+    label "benvindasjdr"
+  ]
+  node [
+    id 51
+    label "ana_lu.032"
+  ]
+  node [
+    id 52
+    label "sftb13five"
   ]
   edge [
     source 0
@@ -362,54 +362,54 @@ graph [
   ]
   edge [
     source 39
-    target 40
+    target 29
+  ]
+  edge [
+    source 40
+    target 29
   ]
   edge [
     source 41
-    target 40
+    target 29
   ]
   edge [
     source 42
-    target 40
-  ]
-  edge [
-    source 43
-    target 40
+    target 43
   ]
   edge [
     source 44
-    target 40
+    target 43
   ]
   edge [
     source 45
-    target 40
+    target 43
   ]
   edge [
     source 46
-    target 40
+    target 43
   ]
   edge [
     source 47
-    target 40
+    target 43
   ]
   edge [
     source 48
-    target 40
+    target 43
   ]
   edge [
     source 49
-    target 40
+    target 43
   ]
   edge [
     source 50
-    target 40
+    target 43
   ]
   edge [
     source 51
-    target 40
+    target 43
   ]
   edge [
     source 52
-    target 40
+    target 43
   ]
 ]
